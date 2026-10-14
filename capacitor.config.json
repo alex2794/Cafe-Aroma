@@ -1,0 +1,15 @@
+{
+  "appId": "com.cafearoma.app",
+  "appName": "Cafe Aroma",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#faf7f2",
+      "showSpinner": false
+    }
+  }
+}
